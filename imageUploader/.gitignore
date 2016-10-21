@@ -1,0 +1,4 @@
+.idea/*
+imageUploader/__pycache__/*
+imageUploader/uploaderApp/__pycache__/*
+
