@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'uploader'
 ]
 
 MIDDLEWARE = [
@@ -54,7 +55,7 @@ ROOT_URLCONF = 'imageUploader.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'imageUploader/uploaderApp/templates')]
+        'DIRS': [os.path.join(BASE_DIR, 'imageUploader/uploader/templates')]
         ,
         'APP_DIRS': True,
         'OPTIONS': {

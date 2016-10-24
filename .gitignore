@@ -2,3 +2,9 @@
 imageUploader/__pycache__/*
 imageUploader/uploaderApp/__pycache__/*
 
+uploader/__pycache__/__init__.cpython-35.pyc
+uploader/__pycache__/admin.cpython-35.pyc
+uploader/__pycache__/models.cpython-35.pyc
+uploader/__pycache__/urls.cpython-35.pyc
+uploader/__pycache__/views.cpython-35.pyc
+субтитры.txt
