@@ -1,1 +1,1 @@
-# Django app: imageUploader
+# Django app: fileUploader

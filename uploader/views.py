@@ -5,6 +5,7 @@ from .functions import handle_uploaded_file
 
 
 def upload_file(request):
+    """ file upload process function"""
     if request.method == 'POST':
         form = UploadFileForm(request.POST, request.FILES)
         if form.is_valid():
